@@ -80,21 +80,21 @@
 
 <h2>📊 GitHub Statistics</h2>
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats.vercel.app/api?username=rifatHossainDevs&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
     alt="GitHub Statistics"
   />
 </p>
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatHossainDevs&layout=compact&theme=transparent&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=rifatHossainDevs&theme=transparent&hide_border=true"
     alt="GitHub Contribution Streak"
@@ -103,7 +103,7 @@
 
 <h2>🏆 GitHub Trophies</h2>
 
-<p align="center">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy.vercel.app/?username=rifatHossainDevs&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4"
