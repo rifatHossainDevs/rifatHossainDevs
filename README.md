@@ -1,22 +1,24 @@
-<h1>Hi 👋, I'm Rifat Hossain</h1>
-<h3>Flutter & Android Developer | Mobile App Development Enthusiast 🇧🇩</h3>
+# Hi 👋, I'm Rifat Hossain
 
-<p>
-  I build mobile applications using <strong>Flutter, Dart, Kotlin, and modern Android development practices</strong>. I'm passionate about creating user-friendly applications, integrating REST APIs, and writing clean, maintainable code.
-</p>
+### Flutter Developer | Native Android Developer 🇧🇩
 
-<p>
-  <a href="https://github.com/rifatHossainDevs">
-    <img src="https://komarev.com/ghpvc/?username=rifatHossainDevs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/rifatHossainDevs?tab=followers">
-    <img src="https://img.shields.io/github/followers/rifatHossainDevs?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
+I build mobile applications using **Flutter, Dart, Kotlin, and modern Android development practices**. I enjoy creating intuitive user interfaces, integrating REST APIs, managing application state, and writing clean, maintainable code.
 
-<h2>🚀 Languages and Tools</h2>
+[![Profile Views](https://komarev.com/ghpvc/?username=rifatHossainDevs&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rifatHossainDevs)
+[![GitHub Followers](https://img.shields.io/github/followers/rifatHossainDevs?label=Followers&style=social)](https://github.com/rifatHossainDevs?tab=followers)
 
-<h3>📱 Mobile Development</h3>
+- 🔭 **Currently working on:** Mobile application development projects.
+- 🌱 **Currently learning:** Advanced Flutter development and modern Android architecture.
+- 💡 **Interested in:** Clean Architecture, REST APIs, state management, and scalable mobile applications.
+- 🎯 **Career goal:** Grow as a Flutter Developer and contribute to real-world products.
+- 📂 **Explore my work:** [GitHub Repositories](https://github.com/rifatHossainDevs?tab=repositories)
+
+---
+
+## 🚀 Languages and Tools
+
+### 📱 Mobile Development
+
 <p>
   <a href="https://dart.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="42" height="42" /></a>
   <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42" /></a>
@@ -25,7 +27,8 @@
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" /></a>
 </p>
 
-<h3>💻 Programming Languages</h3>
+### 💻 Programming Languages
+
 <p>
   <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></a>
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" /></a>
@@ -35,100 +38,90 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" /></a>
 </p>
 
-<h3>🛠️ Tools & Technologies</h3>
+### 🛠️ Tools and Technologies
+
 <p>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" /></a>
-  <a href="https://github.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       alt="GitHub" width="42" height="42" />
-</a>
+  <a href="https://github.com/rifatHossainDevs"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" /></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42" /></a>
   <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="42" height="42" /></a>
 </p>
 
-<h2>🌟 Featured Projects</h2>
+---
 
-<ul>
-  <li>
-    🛍️ <strong><a href="https://github.com/rifatHossainDevs/Crafty-Bay">Crafty Bay</a></strong> — A Flutter e-commerce application featuring product browsing, REST API integration, pagination, localization, and Provider state management.
-  </li>
-  <li>
-    🛒 <strong><a href="https://github.com/rifatHossainDevs/NityoBazaar-Android-App">NityoBazaar</a></strong> — A native Android e-commerce application built with Kotlin and MVVM, featuring product discovery, combo offers, shopping cart functionality, and REST API integration.
-  </li>
-  <li>
-    🗺️ <strong><a href="https://github.com/rifatHossainDevs/mapzy">Mapzy</a></strong> — A mobile application project focused on map-based functionality.
-  </li>
-  <li>
-    💼 <strong><a href="https://github.com/rifatHossainDevs/Sales-Man">Sales Man</a></strong> — A mobile application project focused on sales and business workflow management.
-  </li>
-</ul>
+## 🌟 Featured Projects
 
-<p>🚀 Explore my repositories to see my projects, development journey, and continuous learning in mobile application development.</p>
+### 🛍️ [Crafty Bay](https://github.com/rifatHossainDevs/Crafty-Bay)
 
-<h2>✍️ Recent Posts</h2>
+A Flutter e-commerce application focused on product discovery and a smooth shopping experience.
 
-<ul>
-  <li>📱 Building mobile applications with Flutter and Dart.</li>
-  <li>⚙️ Exploring Kotlin, MVVM, and Clean Architecture in Android development.</li>
-  <li>🔌 Integrating REST APIs and managing application state.</li>
-  <li>🚀 Sharing project updates, lessons learned, and my developer journey.</li>
-</ul>
+- Built with Flutter and Dart.
+- Provider state management and REST API integration.
+- Product pagination and multilingual localization.
 
-<p><em>Follow my GitHub for project updates and practical mobile development experiments.</em></p>
+**Technologies:** Flutter · Dart · Provider · REST APIs
 
-<h2>📊 GitHub Statistics</h2>
+### 🛒 [NityoBazaar](https://github.com/rifatHossainDevs/NityoBazaar-Android-App)
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rifatHossainDevs&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-  />
-</p>
+A native Android e-commerce application designed to provide convenient product browsing and shopping.
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatHossainDevs&layout=compact&theme=transparent&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+- Developed using Kotlin and MVVM architecture.
+- Product categories, search, combo offers, and shopping cart functionality.
+- REST API integration and session management.
 
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rifatHossainDevs&theme=transparent&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+**Technologies:** Kotlin · Android · MVVM · REST APIs
 
-<h2>🏆 GitHub Trophies</h2>
+### 🗺️ [Mapzy](https://github.com/rifatHossainDevs/mapzy)
 
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=rifatHossainDevs&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4"
-      alt="Rifat's GitHub Trophies"
-    />
-  </a>
-</p>
+Explore my Mapzy project and its implementation in the repository.
 
-<h2>🤝 Connect With Me</h2>
+### 💼 [Sales Man](https://github.com/rifatHossainDevs/Sales-Man)
 
-<p>
-  <a href="https://www.linkedin.com/in/md-rifat-hossain-0014a7237/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rifatHossainDevs">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://x.com/Hoss60443Rifat">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X" />
-  </a>
-</p>
+Explore my Sales Man project and its implementation in the repository.
 
-<p>
-  💬 Feel free to connect with me to discuss Flutter, Android development, and exciting mobile app ideas.
-</p>
+[View all repositories →](https://github.com/rifatHossainDevs?tab=repositories)
+
+---
+
+## 📈 GitHub Activity
+
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=rifatHossainDevs&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Rifat's GitHub Statistics" />
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatHossainDevs&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+
+### Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatHossainDevs&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+
+### Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifatHossainDevs&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+
+---
+
+## ✍️ Developer Journey
+
+I believe in learning by building. Through my mobile development projects, I'm continuously improving my skills in application architecture, state management, API integration, and user interface development.
+
+I use my repositories to document projects, experiment with technologies, and track my progress as a developer.
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rifat-hossain-0014a7237/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifatHossainDevs)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hoss60443Rifat)
+
+Feel free to connect with me to discuss Flutter, Android development, software architecture, and mobile app ideas.
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifatHossainDevs/rifatHossainDevs/output/github-snake-dark.svg" />
