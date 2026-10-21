@@ -86,14 +86,9 @@ Explore my Sales Man project and its implementation in the repository.
 ---
 
 
-## 🗓️ GitHub Contribution Calendar
+## 🗓️ Contribution Calendar
 
-Check out my coding journey and contribution history on GitHub.
-
-[![GitHub Profile](https://img.shields.io/badge/View_My_Contribution_Calendar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifatHossainDevs)
-
-[**View my GitHub contribution calendar →**](https://github.com/rifatHossainDevs)
-
+![GitHub Contribution Calendar](https://ghchart.rshah.org/0e75b6/rifatHossainDevs)
 
 ---
 
