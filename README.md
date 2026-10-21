@@ -48,10 +48,21 @@
 <h2>🌟 Featured Projects</h2>
 
 <ul>
-  <li><strong><a href="https://github.com/rifatHossainDevs/NityoBazaar-Android-App">NityoBazaar</a></strong> — Native Android e-commerce application built with Kotlin, MVVM, and REST APIs.</li>
-  <li><strong><a href="https://github.com/rifatHossainDevs/Smart-text-AI">Smart Text AI</a></strong> — An AI-focused text application project.</li>
-  <li><strong><a href="https://github.com/rifatHossainDevs/Lead-Coderz">Lead-Coderz</a></strong> — A development project focused on building digital solutions.</li>
+  <li>
+    🛍️ <strong><a href="https://github.com/rifatHossainDevs/Crafty-Bay">Crafty Bay</a></strong> — A Flutter e-commerce application featuring product browsing, REST API integration, pagination, localization, and Provider state management.
+  </li>
+  <li>
+    🛒 <strong><a href="https://github.com/rifatHossainDevs/NityoBazaar-Android-App">NityoBazaar</a></strong> — A native Android e-commerce application built with Kotlin and MVVM, featuring product discovery, combo offers, shopping cart functionality, and REST API integration.
+  </li>
+  <li>
+    🗺️ <strong><a href="https://github.com/rifatHossainDevs/mapzy">Mapzy</a></strong> — A mobile application project focused on map-based functionality.
+  </li>
+  <li>
+    💼 <strong><a href="https://github.com/rifatHossainDevs/Sales-Man">Sales Man</a></strong> — A mobile application project focused on sales and business workflow management.
+  </li>
 </ul>
+
+<p>🚀 Explore my repositories to see my projects, development journey, and continuous learning in mobile application development.</p>
 
 <h2>✍️ Recent Posts</h2>
 
