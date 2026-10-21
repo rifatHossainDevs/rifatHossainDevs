@@ -85,23 +85,13 @@ Explore my Sales Man project and its implementation in the repository.
 
 ---
 
-## 📈 GitHub Activity
-
-### GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=rifatHossainDevs&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Rifat's GitHub Statistics" />
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatHossainDevs&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
-
-### Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatHossainDevs&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 
 ### Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifatHossainDevs&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+[![Rifat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifatHossainDevs&theme=github-compact&hide_border=true&area=true)](https://github.com/rifatHossainDevs)
+
+[View my GitHub profile →](https://github.com/rifatHossainDevs)
+
 
 ---
 
