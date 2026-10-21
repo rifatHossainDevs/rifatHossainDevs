@@ -85,13 +85,6 @@ Explore my Sales Man project and its implementation in the repository.
 
 ---
 
-
-## 🗓️ Contribution Calendar
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/0e75b6/rifatHossainDevs)
-
----
-
 ## ✍️ Developer Journey
 
 I believe in learning by building. Through my mobile development projects, I'm continuously improving my skills in application architecture, state management, API integration, and user interface development.
