@@ -86,11 +86,13 @@ Explore my Sales Man project and its implementation in the repository.
 ---
 
 
-### Contribution Activity Graph
+## 🗓️ GitHub Contribution Calendar
 
-[![Rifat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifatHossainDevs&theme=github-compact&hide_border=true&area=true)](https://github.com/rifatHossainDevs)
+Check out my coding journey and contribution history on GitHub.
 
-[View my GitHub profile →](https://github.com/rifatHossainDevs)
+[![GitHub Profile](https://img.shields.io/badge/View_My_Contribution_Calendar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifatHossainDevs)
+
+[**View my GitHub contribution calendar →**](https://github.com/rifatHossainDevs)
 
 
 ---
