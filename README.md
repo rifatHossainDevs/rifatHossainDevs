@@ -49,47 +49,17 @@ I build mobile applications using **Flutter, Dart, Kotlin, and modern Android de
   <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="42" height="42" /></a>
 </p>
 
+
 ---
 
 ## 🌟 Featured Projects
 
-### 🛍️ [Crafty Bay](https://github.com/rifatHossainDevs/Crafty-Bay)
+- 🛍️ **[Crafty Bay](https://github.com/rifatHossainDevs/Crafty-Bay)** — Flutter e-commerce app with Provider, REST APIs, pagination, and localization.
+- 🛒 **[NityoBazaar](https://github.com/rifatHossainDevs/NityoBazaar-Android-App)** — Kotlin Android grocery app featuring MVVM, product search, and cart management.
+- 🗺️ **[Mapzy](https://github.com/rifatHossainDevs/mapzy)** — Explore my mapping project.
+- 💼 **[Sales Man](https://github.com/rifatHossainDevs/Sales-Man)** — Explore my sales management project.
 
-A Flutter e-commerce application focused on product discovery and a smooth shopping experience.
-
-- Built with Flutter and Dart.
-- Provider state management and REST API integration.
-- Product pagination and multilingual localization.
-
-**Technologies:** Flutter · Dart · Provider · REST APIs
-
-### 🛒 [NityoBazaar](https://github.com/rifatHossainDevs/NityoBazaar-Android-App)
-
-A native Android e-commerce application designed to provide convenient product browsing and shopping.
-
-- Developed using Kotlin and MVVM architecture.
-- Product categories, search, combo offers, and shopping cart functionality.
-- REST API integration and session management.
-
-**Technologies:** Kotlin · Android · MVVM · REST APIs
-
-### 🗺️ [Mapzy](https://github.com/rifatHossainDevs/mapzy)
-
-Explore my Mapzy project and its implementation in the repository.
-
-### 💼 [Sales Man](https://github.com/rifatHossainDevs/Sales-Man)
-
-Explore my Sales Man project and its implementation in the repository.
-
-[View all repositories →](https://github.com/rifatHossainDevs?tab=repositories)
-
----
-
-## ✍️ Developer Journey
-
-I believe in learning by building. Through my mobile development projects, I'm continuously improving my skills in application architecture, state management, API integration, and user interface development.
-
-I use my repositories to document projects, experiment with technologies, and track my progress as a developer.
+[**View All Repositories →**](https://github.com/rifatHossainDevs?tab=repositories)
 
 ---
 
