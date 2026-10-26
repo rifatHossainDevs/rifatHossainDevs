@@ -69,8 +69,6 @@ I build mobile applications using **Flutter, Dart, Kotlin, and modern Android de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rifat-hossain-0014a7237/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifatHossainDevs)
 
-📧 **Email:** [mdrifathossain472@gmail.com](mailto:mdrifathossain472@gmail.com)
-
 Feel free to connect with me to discuss Flutter, Android development, software architecture, and mobile app ideas.
 
 ---
