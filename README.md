@@ -68,7 +68,6 @@ I build mobile applications using **Flutter, Dart, Kotlin, and modern Android de
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrifathossain472@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rifat-hossain-0014a7237/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifatHossainDevs)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hoss60443Rifat)
 
 📧 **Email:** [mdrifathossain472@gmail.com](mailto:mdrifathossain472@gmail.com)
 
